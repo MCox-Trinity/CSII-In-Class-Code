@@ -1,0 +1,5 @@
+package MiscClassCode
+
+object HelloWorld {
+  
+}
